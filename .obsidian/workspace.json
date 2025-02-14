@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -169,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7db9e9f6464d5bd1",
+  "active": "6cc16695d3fb3c84",
   "lastOpenFiles": [
     "work.md"
   ]
