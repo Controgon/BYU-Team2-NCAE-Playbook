@@ -11,14 +11,10 @@
             "id": "7db9e9f6464d5bd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "work"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for work"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from work"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of work"
+              "title": "Outline"
             }
           }
         ]
@@ -169,7 +162,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cc16695d3fb3c84",
+  "active": "7db9e9f6464d5bd1",
   "lastOpenFiles": [
     "work.md"
   ]
