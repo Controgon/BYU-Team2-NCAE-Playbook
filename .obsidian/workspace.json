@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Routers/Commands/Set up HTTPS.md",
+                "file": "Routers/MickroTik Commands/Set up HTTPS.md",
                 "mode": "source",
                 "source": false
               },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Routers/Commands/Set up HTTPS.md",
+                "file": "Routers/MickroTik Commands/Set up HTTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Routers/Commands/Set up HTTPS.md",
+                "file": "Routers/MickroTik Commands/Set up HTTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Routers/Commands/Set up HTTPS.md",
+                "file": "Routers/MickroTik Commands/Set up HTTPS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,14 +184,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb2c671ca89e4d55",
+  "active": "6cc16695d3fb3c84",
   "lastOpenFiles": [
-    "Routers/Commands/User Commands.md",
-    "Routers/Commands/Setting an IP Address.md",
-    "Routers/Commands/Basic Commands and Symbols.md",
-    "Routers/Commands/Service Commands.md",
-    "Routers/Commands/Set up HTTPS.md",
-    "Routers/Commands",
+    "Routers/MickroTik Commands/User Commands.md",
+    "Routers/MickroTik Commands/Setting an IP Address.md",
+    "Routers/MickroTik Commands/Basic Commands and Symbols.md",
+    "Routers/MickroTik Commands/Service Commands.md",
+    "Routers/MickroTik Commands/Set up HTTPS.md",
+    "Routers/MickroTik Commands",
     "Required Community Plugin.md",
     "Routers",
     "Templates",
