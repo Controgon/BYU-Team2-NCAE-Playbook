@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Routers/MickroTik Commands/Port Forward.md",
+                "file": "Templates/Basic Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Port Forward"
+              "title": "Basic Note"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Routers/MickroTik Commands/Port Forward.md",
+                "file": "Templates/Basic Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Port Forward"
+              "title": "Backlinks for Basic Note"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Routers/MickroTik Commands/Port Forward.md",
+                "file": "Templates/Basic Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Port Forward"
+              "title": "Outgoing links from Basic Note"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Routers/MickroTik Commands/Port Forward.md",
+                "file": "Templates/Basic Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Port Forward"
+              "title": "Outline of Basic Note"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "fb2c671ca89e4d55",
   "lastOpenFiles": [
+    "Routers/MickroTik Commands/Port Forward 80 to 80.md",
+    "Templates/Basic Note.md",
     "Routers/MickroTik Commands/Set up HTTPS.md",
-    "Routers/MickroTik Commands/Port Forward.md",
     "Routers/MickroTik Commands/User Commands.md",
     "Routers/MickroTik Commands/Setting an IP Address.md",
     "Routers/MickroTik Commands/Basic Commands and Symbols.md",
