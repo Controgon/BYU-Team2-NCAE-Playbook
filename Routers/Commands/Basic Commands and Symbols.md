@@ -6,7 +6,11 @@ this will print information on the command or path put infront of it
 ```
 This specific command shows all users
 
-##
+## Ping
+```
+/ping ip_address
+```
+
 ## How to Find Commands
 ```
 /ip (press tab)
