@@ -18,3 +18,15 @@ Required
 ```
 /certificate print detail
 ```
+
+## Enable HTTPS
+```
+/ip service enable www-ssl
+```
+
+## Set it to Use the Certificate
+```
+/ip service set www-ssl certificate=Server disabled=no
+/ip service set www-ssl 
+```
+
