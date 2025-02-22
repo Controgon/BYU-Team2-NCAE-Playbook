@@ -25,12 +25,14 @@
             "id": "bad0e0a555ef6dc8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Pasted image 20250222100740.png"
+                "file": "Web/Web - Network (Ubuntu).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250222100740"
+              "icon": "lucide-file",
+              "title": "Web - Network (Ubuntu)"
             }
           }
         ],
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Pasted image 20250222100740.png",
+                "file": "Web/Web - Network (Ubuntu).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250222100740"
+              "title": "Backlinks for Web - Network (Ubuntu)"
             }
           },
           {
@@ -126,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Pasted image 20250222100740.png",
+                "file": "Web/Web - Network (Ubuntu).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20250222100740"
+              "title": "Outgoing links from Web - Network (Ubuntu)"
             }
           },
           {
@@ -155,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/Pasted image 20250222100740.png",
+                "file": "Web/Web - Network (Ubuntu).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250222100740"
+              "title": "Outline of Web - Network (Ubuntu)"
             }
           },
           {
@@ -193,10 +195,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6cc16695d3fb3c84",
+  "active": "bad0e0a555ef6dc8",
   "lastOpenFiles": [
-    "testing.md",
     "Attachments/Pasted image 20250222100740.png",
+    "testing.md",
     "conflict-files-obsidian-git.md",
     "Attachments/lecture8-CentOS7_RouterSetup.pdf",
     "Routers/Centos 7.md",
