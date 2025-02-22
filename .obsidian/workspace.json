@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH/Network.md",
+                "file": "Web/Network.md",
                 "mode": "source",
                 "source": false
               },
@@ -177,13 +177,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cc16695d3fb3c84",
+  "active": "72bba21233013d48",
   "lastOpenFiles": [
-    "SSH/Untitled.md",
     "SSH/Network.md",
+    "SSH/Untitled.md",
+    "Web/Network.md",
+    "Templates/Basic Note.md",
+    "Web",
     "Routers/MickroTik Commands/User Commands.md",
     "conflict-files-obsidian-git.md",
-    "Templates/Basic Note.md",
     "SSH",
     "Untitled.md",
     "FTP",
