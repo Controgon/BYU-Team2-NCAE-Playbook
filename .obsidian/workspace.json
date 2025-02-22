@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72bba21233013d48",
+  "active": "6cc16695d3fb3c84",
   "lastOpenFiles": [
     "SSH/Untitled.md",
     "SSH/Network.md",
