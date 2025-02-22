@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,12 +197,12 @@
   },
   "active": "bad0e0a555ef6dc8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Routers/Centos 7.md",
     "Web/Web - Network (Ubuntu).md",
     "Attachments/Pasted image 20250222100740.png",
     "testing.md",
-    "conflict-files-obsidian-git.md",
     "Attachments/lecture8-CentOS7_RouterSetup.pdf",
-    "Routers/Centos 7.md",
     "Web",
     "SSH/Untitled.md",
     "SSH/Network.md",
