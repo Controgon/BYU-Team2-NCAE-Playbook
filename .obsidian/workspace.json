@@ -35,8 +35,7 @@
               "title": "User Commands"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,12 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72bba21233013d48",
+  "active": "d8ccacb3b7bd3e7d",
   "lastOpenFiles": [
+    "Routers/MickroTik Commands/User Commands.md",
     "Untitled.md",
     "FTP",
     "SSH",
-    "Routers/MickroTik Commands/User Commands.md",
     "Required Community Plugin.md",
     "testing.md",
     "Routers/MickroTik Commands/Setting an IP Address.md",
