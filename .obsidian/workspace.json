@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Web - make sure router is correct.md",
+                "file": "Database/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web - make sure router is correct"
+              "title": "Untitled"
             }
           }
         ]
@@ -180,15 +180,17 @@
   "active": "72bba21233013d48",
   "lastOpenFiles": [
     "Web/Web - check status.md",
+    "Database/Untitled.md",
+    "Database",
+    "Web/Web - make sure router is correct.md",
+    "attachments/Pasted image 20250222100740.png",
     "Web/Web - Network (Ubuntu).md",
     "Web/Web - nginx active failed.md",
-    "Web/Web - make sure router is correct.md",
     "attachments/Pasted image 20250222104541.png",
     "conflict-files-obsidian-git.md",
     "Routers/Centos 7.md",
     "attachments/lecture8-CentOS7_RouterSetup.pdf",
     "attachments/Pasted image 20250222104212.png",
-    "attachments/Pasted image 20250222100740.png",
     "attachments",
     "SSH/Network.md",
     "SSH/Untitled.md",
