@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Web - Network (Ubuntu).md",
+                "file": "Routers/Centos 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web - Network (Ubuntu)"
+              "title": "Centos 7"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Web - Network (Ubuntu).md",
+                "file": "Routers/Centos 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Web - Network (Ubuntu)"
+              "title": "Backlinks for Centos 7"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Web - Network (Ubuntu).md",
+                "file": "Routers/Centos 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Web - Network (Ubuntu)"
+              "title": "Outgoing links from Centos 7"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Web - Network (Ubuntu).md",
+                "file": "Routers/Centos 7.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Web - Network (Ubuntu)"
+              "title": "Outline of Centos 7"
             }
           },
           {
@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,12 +198,12 @@
   },
   "active": "bad0e0a555ef6dc8",
   "lastOpenFiles": [
+    "Web/Web - Network (Ubuntu).md",
     "Attachments/Pasted image 20250222100740.png",
     "testing.md",
     "conflict-files-obsidian-git.md",
     "Attachments/lecture8-CentOS7_RouterSetup.pdf",
     "Routers/Centos 7.md",
-    "Web/Web - Network (Ubuntu).md",
     "Web",
     "SSH/Untitled.md",
     "SSH/Network.md",
