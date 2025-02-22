@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72bba21233013d48",
+            "id": "d8ccacb3b7bd3e7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Untitled.md",
+                "file": "Routers/Centos 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Centos 7"
+            }
+          },
+          {
+            "id": "bad0e0a555ef6dc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routers/Centos 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Centos 7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "1893b724eb1d27eb",
@@ -94,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Routers/Centos 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Centos 7"
             }
           },
           {
@@ -112,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Routers/Centos 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Centos 7"
             }
           },
           {
@@ -140,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Routers/Centos 7.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Centos 7"
             }
           },
           {
@@ -163,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,40 +191,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "72bba21233013d48",
+  "active": "bad0e0a555ef6dc8",
   "lastOpenFiles": [
+    "Web/Web - make sure router is correct.md",
     "Web/Web - check status.md",
     "Database/Untitled.md",
     "Database",
-    "Web/Web - make sure router is correct.md",
-    "attachments/Pasted image 20250222100740.png",
-    "Web/Web - Network (Ubuntu).md",
-    "Web/Web - nginx active failed.md",
-    "attachments/Pasted image 20250222104541.png",
+    "Attachments/Pasted image 20250222104541.png",
     "conflict-files-obsidian-git.md",
     "Routers/Centos 7.md",
-    "attachments/lecture8-CentOS7_RouterSetup.pdf",
-    "attachments/Pasted image 20250222104212.png",
-    "attachments",
-    "SSH/Network.md",
-    "SSH/Untitled.md",
-    "Templates/Basic Note.md",
-    "Web",
-    "Routers/MickroTik Commands/User Commands.md",
-    "SSH",
     "Untitled.md",
-    "FTP",
-    "Required Community Plugin.md",
+    "Attachments/Pasted image 20250222104212.png",
+    "Web/Web - nginx active failed.md",
+    "Web/Web - Network (Ubuntu).md",
+    "Attachments/Pasted image 20250222100740.png",
     "testing.md",
-    "Routers/MickroTik Commands/Setting an IP Address.md",
-    "Routers/MickroTik Commands/Service Commands.md",
-    "Routers/MickroTik Commands/Basic Commands and Symbols.md",
+    "Attachments/lecture8-CentOS7_RouterSetup.pdf",
+    "Web",
+    "SSH/Untitled.md",
+    "SSH/Network.md",
+    "SSH",
+    "Required Community Plugin.md",
+    "Templates/Basic Note.md",
     "Routers/MickroTik Commands/Port Forward 80 to 80.md",
     "Routers/MickroTik Commands/Set up HTTPS.md",
+    "Routers/MickroTik Commands/User Commands.md",
+    "Routers/MickroTik Commands/Setting an IP Address.md",
+    "Routers/MickroTik Commands/Basic Commands and Symbols.md",
+    "Routers/MickroTik Commands/Service Commands.md",
     "Routers/MickroTik Commands",
     "Routers",
     "Templates",
