@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Untitled.md",
+                "file": "FTP/etc vsftpd.conf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "etc vsftpd.conf"
             }
           }
         ]
@@ -179,12 +179,15 @@
   },
   "active": "72bba21233013d48",
   "lastOpenFiles": [
-    "Web/Web - check status.md",
+    "FTP/Network.md",
+    "FTP/etc vsftpd.conf.md",
     "Database/Untitled.md",
+    "FTP",
+    "Web/Web - Network (Ubuntu).md",
+    "Web/Web - check status.md",
     "Database",
     "Web/Web - make sure router is correct.md",
     "attachments/Pasted image 20250222100740.png",
-    "Web/Web - Network (Ubuntu).md",
     "Web/Web - nginx active failed.md",
     "attachments/Pasted image 20250222104541.png",
     "conflict-files-obsidian-git.md",
@@ -210,7 +213,6 @@
     "Routers/MickroTik Commands",
     "Routers",
     "Templates",
-    "Attachments",
     "work.md"
   ]
 }
