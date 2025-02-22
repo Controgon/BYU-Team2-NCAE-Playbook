@@ -5,8 +5,8 @@ network:
     eth0:
       dhcp4: no
       addresses:
-        - 192.168.1.100/24
-      gateway4: 192.168.1.1
+        - (Shell/FTP)
+      gateway4: (competition router)
       nameservers:
         addresses:
           - 8.8.8.8
