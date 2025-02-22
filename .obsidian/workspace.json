@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH/Untitled.md",
+                "file": "SSH/Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Network"
             }
           }
         ]
@@ -179,10 +179,11 @@
   },
   "active": "72bba21233013d48",
   "lastOpenFiles": [
+    "SSH/Untitled.md",
+    "SSH/Network.md",
     "Routers/MickroTik Commands/User Commands.md",
     "conflict-files-obsidian-git.md",
     "Templates/Basic Note.md",
-    "SSH/Untitled.md",
     "SSH",
     "Untitled.md",
     "FTP",
