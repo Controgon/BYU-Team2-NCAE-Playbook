@@ -11,32 +11,13 @@
             "id": "d8ccacb3b7bd3e7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Basic Note.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Basic Note"
-            }
-          },
-          {
-            "id": "72bba21233013d48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "testing"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,15 +169,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "72bba21233013d48",
+  "active": "0df148cf1dc8dede",
   "lastOpenFiles": [
-    "Templates/Basic Note.md",
     "testing.md",
     "Required Community Plugin.md",
+    "Templates/Basic Note.md",
     "Routers/MickroTik Commands/Port Forward 80 to 80.md",
     "Routers/MickroTik Commands/Set up HTTPS.md",
     "Routers/MickroTik Commands/User Commands.md",
