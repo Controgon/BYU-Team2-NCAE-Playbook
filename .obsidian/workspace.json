@@ -11,10 +11,14 @@
             "id": "d8ccacb3b7bd3e7d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Routers/Centos 7.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Centos 7"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Routers/Centos 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Centos 7"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Routers/Centos 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Centos 7"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Routers/Centos 7.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Centos 7"
             }
           },
           {
@@ -173,8 +180,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0df148cf1dc8dede",
+  "active": "d8ccacb3b7bd3e7d",
   "lastOpenFiles": [
+    "Attachments/lecture8-CentOS7_RouterSetup.pdf",
+    "Routers/Centos 7.md",
     "testing.md",
     "Required Community Plugin.md",
     "Templates/Basic Note.md",
