@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FTP/etc vsftpd.conf.md",
+                "file": "SSH/SSH setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "etc vsftpd.conf"
+              "title": "SSH setup"
             }
           }
         ],
@@ -222,10 +222,10 @@
   },
   "active": "5a77a6186caf5774",
   "lastOpenFiles": [
+    "FTP/etc vsftpd.conf.md",
     "FTP/Network.md",
     "SSH/SSH setup.md",
     "conflict-files-obsidian-git.md",
-    "FTP/etc vsftpd.conf.md",
     "FTP",
     "SSH/Untitled.md",
     "Database/Untitled.md",

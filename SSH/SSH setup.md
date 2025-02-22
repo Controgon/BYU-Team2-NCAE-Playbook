@@ -63,4 +63,3 @@ echo "SSH keys have been set up for all users."
     ```
     sudo ./setup_ssh_keys.sh
     ```
-suu
