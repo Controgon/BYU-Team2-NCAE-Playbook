@@ -11,13 +11,32 @@
             "id": "d8ccacb3b7bd3e7d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Basic Note.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Basic Note"
+            }
+          },
+          {
+            "id": "72bba21233013d48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routers/MickroTik Commands/Setting an IP Address.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Setting an IP Address"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,21 +189,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0df148cf1dc8dede",
+  "active": "72bba21233013d48",
   "lastOpenFiles": [
+    "Routers/MickroTik Commands/Service Commands.md",
+    "Routers/MickroTik Commands/Basic Commands and Symbols.md",
     "testing.md",
-    "Required Community Plugin.md",
     "Templates/Basic Note.md",
+    "Required Community Plugin.md",
     "Routers/MickroTik Commands/Port Forward 80 to 80.md",
     "Routers/MickroTik Commands/Set up HTTPS.md",
     "Routers/MickroTik Commands/User Commands.md",
     "Routers/MickroTik Commands/Setting an IP Address.md",
-    "Routers/MickroTik Commands/Basic Commands and Symbols.md",
-    "Routers/MickroTik Commands/Service Commands.md",
     "Routers/MickroTik Commands",
     "Routers",
     "Templates",
