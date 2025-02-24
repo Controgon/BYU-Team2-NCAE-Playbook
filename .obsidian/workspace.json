@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Web - check status.md",
+                "file": "Routers/MickroTik Commands/Slides from class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web - check status"
+              "title": "Slides from class"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Web - check status.md",
+                "file": "Routers/MickroTik Commands/Slides from class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Web - check status"
+              "title": "Backlinks for Slides from class"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Web - check status.md",
+                "file": "Routers/MickroTik Commands/Slides from class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Web - check status"
+              "title": "Outgoing links from Slides from class"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Web - check status.md",
+                "file": "Routers/MickroTik Commands/Slides from class.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Web - check status"
+              "title": "Outline of Slides from class"
             }
           },
           {
@@ -211,8 +211,9 @@
   },
   "active": "d95d031923e13f26",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Web/Web - check status.md",
+    "Routers/MickroTik Commands/Slides from class.md",
+    "conflict-files-obsidian-git.md",
     "Required Community Plugin.md",
     "Web/Web - nginx active failed.md",
     "Web/Web - Network (Ubuntu).md",
