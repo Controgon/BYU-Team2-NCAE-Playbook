@@ -67,4 +67,5 @@ echo "SSH keys have been set up for all users."
 
 ## FOR centOS
 *make sure dns is setup properly*
+
 ![[{4ECCFBA9-619B-445E-B3FA-839A515A2C89}.png]]
