@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Routers/MickroTik Commands/Service Commands.md",
+                "file": "Routers/MickroTik Commands/Set up HTTPS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Service Commands"
+              "title": "Set up HTTPS"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Routers/MickroTik Commands/Service Commands.md",
+                "file": "Routers/MickroTik Commands/Set up HTTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Service Commands"
+              "title": "Backlinks for Set up HTTPS"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Routers/MickroTik Commands/Service Commands.md",
+                "file": "Routers/MickroTik Commands/Set up HTTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Service Commands"
+              "title": "Outgoing links from Set up HTTPS"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Routers/MickroTik Commands/Service Commands.md",
+                "file": "Routers/MickroTik Commands/Set up HTTPS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Service Commands"
+              "title": "Outline of Set up HTTPS"
             }
           },
           {
@@ -211,14 +211,15 @@
   },
   "active": "d95d031923e13f26",
   "lastOpenFiles": [
+    "Routers/MickroTik Commands/Setting an IP Address.md",
+    "Routers/MickroTik Commands/Slides from class.md",
+    "Routers/MickroTik Commands/User Commands.md",
+    "Routers/MickroTik Commands/Disabled services.md",
+    "Routers/MickroTik Commands/Service Commands.md",
     "Routers/MickroTik Commands/Port Forward 80 to 80.md",
     "Routers/MickroTik Commands/Basic Commands and Symbols.md",
     "Routers/MickroTik Commands/Login.md",
     "Routers/MickroTik Commands/Set up HTTPS.md",
-    "Routers/MickroTik Commands/Setting an IP Address.md",
-    "Routers/MickroTik Commands/Slides from class.md",
-    "Routers/MickroTik Commands/User Commands.md",
-    "Routers/MickroTik Commands/Service Commands.md",
     "conflict-files-obsidian-git.md",
     "Attachments/{4ECCFBA9-619B-445E-B3FA-839A515A2C89}.png",
     "Routers/Centos 7.md",
