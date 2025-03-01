@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Routers/MickroTik Commands/Disabled services.md",
+                "file": "Routers/MickroTik Commands/Login.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disabled services"
+              "title": "Login"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Routers/MickroTik Commands/Disabled services.md",
+                "file": "Routers/MickroTik Commands/Login.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Disabled services"
+              "title": "Backlinks for Login"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Routers/MickroTik Commands/Disabled services.md",
+                "file": "Routers/MickroTik Commands/Login.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Disabled services"
+              "title": "Outgoing links from Login"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Routers/MickroTik Commands/Disabled services.md",
+                "file": "Routers/MickroTik Commands/Login.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Disabled services"
+              "title": "Outline of Login"
             }
           },
           {
@@ -212,11 +212,11 @@
   },
   "active": "d95d031923e13f26",
   "lastOpenFiles": [
+    "Routers/MickroTik Commands/Disabled services.md",
     "Routers/MickroTik Commands/Setting an IP Address.md",
     "Routers/MickroTik Commands/Set up HTTPS.md",
     "Routers/MickroTik Commands/Slides from class.md",
     "Routers/MickroTik Commands/User Commands.md",
-    "Routers/MickroTik Commands/Disabled services.md",
     "Routers/MickroTik Commands/Service Commands.md",
     "Routers/MickroTik Commands/Port Forward 80 to 80.md",
     "Routers/MickroTik Commands/Basic Commands and Symbols.md",

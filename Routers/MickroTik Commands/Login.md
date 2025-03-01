@@ -1,2 +1,5 @@
 admin
 stupidstrongpassword
+
+notadmin
+evenstupiderstrongpassword
