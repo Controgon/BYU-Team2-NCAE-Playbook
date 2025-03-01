@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Routers/MickroTik Commands/Slides from class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Slides from class"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Routers/MickroTik Commands/Slides from class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Slides from class"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Routers/MickroTik Commands/Slides from class.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Slides from class"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -166,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,38 +178,38 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d8ccacb3b7bd3e7d",
+  "active": "0df148cf1dc8dede",
   "lastOpenFiles": [
-    "Routers/MickroTik Commands/User Commands.md",
     "Routers/MickroTik Commands/Slides from class.md",
+    "conflict-files-obsidian-git.md",
+    "FTP/etc vsftpd.conf.md",
+    "FTP/Network.md",
+    "Database/Untitled.md",
+    "Routers/MickroTik Commands/Login.md",
     "Routers/MickroTik Commands/Setting an IP Address.md",
+    "Routers/MickroTik Commands/User Commands.md",
+    "Routers/Centos 7.md",
+    "SSH/SSH setup.md",
+    "SSH/Untitled.md",
+    "Web/Web - check status.md",
+    "Web/Web - make sure router is correct.md",
+    "Web/Web - Network (Ubuntu).md",
+    "Web/Web - nginx active failed.md",
     "Routers/MickroTik Commands/Set up HTTPS.md",
     "Routers/MickroTik Commands/Service Commands.md",
     "Routers/MickroTik Commands/Port Forward 80 to 80.md",
-    "Routers/MickroTik Commands/Login.md",
     "Routers/MickroTik Commands/Disabled services.md",
     "Routers/MickroTik Commands/Basic Commands and Symbols.md",
-    "Routers/Centos 7.md",
     "Attachments/lecture8-CentOS7_RouterSetup.pdf",
-    "conflict-files-obsidian-git.md",
     "Attachments/{4ECCFBA9-619B-445E-B3FA-839A515A2C89}.png",
-    "SSH/SSH setup.md",
-    "FTP/Network.md",
-    "FTP/etc vsftpd.conf.md",
     "FTP",
     "Attachments/{2981CE34-120A-4A89-AF71-61F34F7ACA4A}.png",
-    "Web/Web - check status.md",
     "Required Community Plugin.md",
-    "Web/Web - nginx active failed.md",
-    "Web/Web - Network (Ubuntu).md",
-    "Web/Web - make sure router is correct.md",
     "Templates/Basic Note.md",
-    "SSH/Untitled.md",
     "SSH/Network.md",
     "Attachments/Pasted image 20250222104212.png",
     "Attachments/Pasted image 20250222104541.png",
     "Attachments/Pasted image 20250222100740.png",
-    "Database/Untitled.md",
     "Database",
     "Untitled.md",
     "testing.md",
