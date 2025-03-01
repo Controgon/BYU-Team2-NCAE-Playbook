@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH/SSH setup.md",
+                "file": "Web/Web - Network (Ubuntu).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH setup"
+              "title": "Web - Network (Ubuntu)"
             }
           }
         ],
@@ -222,23 +222,23 @@
   },
   "active": "5a77a6186caf5774",
   "lastOpenFiles": [
+    "Web/Web - nginx active failed.md",
+    "Web/Web - Network (Ubuntu).md",
+    "Web/Web - make sure router is correct.md",
+    "Web/Web - check status.md",
+    "SSH/SSH setup.md",
     "Attachments/{4ECCFBA9-619B-445E-B3FA-839A515A2C89}.png",
     "Routers/MickroTik Commands/Slides from class.md",
     "FTP/etc vsftpd.conf.md",
     "FTP/Network.md",
-    "SSH/SSH setup.md",
     "conflict-files-obsidian-git.md",
     "FTP",
     "SSH/Untitled.md",
     "Database/Untitled.md",
     "Database",
-    "Web/Web - make sure router is correct.md",
-    "Web/Web - check status.md",
     "Attachments/Pasted image 20250222104541.png",
     "Attachments/Pasted image 20250222104212.png",
-    "Web/Web - nginx active failed.md",
     "Attachments/{2981CE34-120A-4A89-AF71-61F34F7ACA4A}.png",
-    "Web/Web - Network (Ubuntu).md",
     "Web",
     "Routers/Centos 7.md",
     "Attachments/lecture8-CentOS7_RouterSetup.pdf",
