@@ -7,4 +7,4 @@ evenstupiderstrongpasswordthatisexcessive
 
 kali 1
 blueteam
-evenstupiderstrongpassword
+evenstupiderpassword
