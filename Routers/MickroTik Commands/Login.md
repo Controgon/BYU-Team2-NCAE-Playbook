@@ -2,9 +2,9 @@ admin
 stupidstrongpassword
 
 notadmin
-evenstupiderstrongpassword
+evenstupiderstrongpasswordthatisexcessive
 
 
 kali 1
 blueteam
-evenstupiderstrongpassword
+evenstupiderpassword
