@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Basic Commands and Symbols"
             }
+          },
+          {
+            "id": "1a714af574426d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Routers/MickroTik Commands/Basic Commands and Symbols.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Basic Commands and Symbols"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -142,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Routers/MickroTik Commands/Basic Commands and Symbols.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Basic Commands and Symbols"
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           },
           {
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Routers/MickroTik Commands/Basic Commands and Symbols.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Basic Commands and Symbols"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -209,15 +223,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d95d031923e13f26",
+  "active": "1a714af574426d0a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Routers/MickroTik Commands/Basic Commands and Symbols.md",
+    "Attachments/{4ECCFBA9-619B-445E-B3FA-839A515A2C89}.png",
     "Routers/MickroTik Commands/Login.md",
     "Routers/MickroTik Commands/User Commands.md",
     "Routers/MickroTik Commands/Port Forward 80 to 80.md",
-    "Routers/MickroTik Commands/Basic Commands and Symbols.md",
     "Routers/MickroTik Commands/Slides from class.md",
     "Routers/Centos 7.md",
-    "conflict-files-obsidian-git.md",
     "SSH/SSH setup.md",
     "FTP/Network.md",
     "FTP/etc vsftpd.conf.md",
