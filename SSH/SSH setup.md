@@ -70,4 +70,4 @@ echo "SSH keys have been set up for all users."
 
 ![[{4ECCFBA9-619B-445E-B3FA-839A515A2C89}.png]]
 
-possible editors 
+possible editors ctrl x ctrl c to save and exit
