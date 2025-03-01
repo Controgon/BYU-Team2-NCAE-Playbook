@@ -3,3 +3,8 @@ stupidstrongpassword
 
 notadmin
 evenstupiderstrongpassword
+
+
+kali 1
+blueteam
+evenstupiderstrongpassword
