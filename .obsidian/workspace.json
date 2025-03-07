@@ -178,6 +178,7 @@
   },
   "active": "d2e125512fff0888",
   "lastOpenFiles": [
+    "DNS",
     "For all machines/Hardening/Users/Checking Users that can log.md",
     "For all machines/Hardening/Users/Sudo Groups.md",
     "For all machines/User management (check your distro).md",
@@ -218,7 +219,6 @@
     "Attachments/Pasted image 20250222100740.png",
     "Attachments",
     "Routers/MickroTik Commands/User Commands.md",
-    "Templates/Basic Note.md",
-    "Untitled.md"
+    "Templates/Basic Note.md"
   ]
 }
