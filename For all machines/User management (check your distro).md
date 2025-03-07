@@ -34,3 +34,13 @@ Check shadow, passwd for real sys users that have a shell but shouldn’t /sbin/
 SSH – look for extra dirs for keys other than .ssh/authorized_keys and keys2
 
 Sudo passwd -l mail will lock account !! in :: in shadow (or diff in diff distro), then get rid of the bin bash above command: how to change a users shell
+
+
+
+
+
+Check what groups users are in and what permissions those groups have
+
+-don’t edit sudoers directly use commands
+
+-blackteam and blueteam leave with sudo. Scoring users shouldn’t need sudo
