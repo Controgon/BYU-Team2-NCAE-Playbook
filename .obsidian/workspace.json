@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "For all machines/Hardening/Users/Sudo Groups.md",
+                "file": "DNS/Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sudo Groups"
+              "title": "Test"
             }
           }
         ],
@@ -193,9 +193,10 @@
   },
   "active": "4bcbfb9cc01294bc",
   "lastOpenFiles": [
+    "For all machines/Hardening/Users/Sudo Groups.md",
+    "DNS/Test.md",
     "DNS",
     "For all machines/Hardening/Users/Checking Users that can log.md",
-    "For all machines/Hardening/Users/Sudo Groups.md",
     "For all machines/User management (check your distro).md",
     "SSH/Hardening.md",
     "For all machines/PAM stuff (check your distro).md",
@@ -232,7 +233,6 @@
     "Routers/Centos 7.md",
     "Attachments/lecture8-CentOS7_RouterSetup.pdf",
     "Attachments/Pasted image 20250222100740.png",
-    "Attachments",
     "Routers/MickroTik Commands/User Commands.md",
     "Templates/Basic Note.md"
   ]
