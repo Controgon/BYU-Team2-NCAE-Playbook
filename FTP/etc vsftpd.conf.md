@@ -1,4 +1,4 @@
-change local_root to =/mnt/files
+change local_root to =/mnt/files (in etc vsftpd vsftpd.conf)
 
 make sure ownership of directories and files are appropritate (eg make a group with the neccessary users in it and then set ownership to ftp:ftpusers)
 
