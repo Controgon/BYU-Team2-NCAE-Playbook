@@ -1,0 +1,1 @@
+Flag hoarding bc not time based score – stay lower on scoreboard to be less of a target. Be aware that you may not have correct or later ones may depend
