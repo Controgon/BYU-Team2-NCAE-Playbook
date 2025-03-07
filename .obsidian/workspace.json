@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Sudo Groups"
             }
+          },
+          {
+            "id": "4bcbfb9cc01294bc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2e125512fff0888",
+  "active": "4bcbfb9cc01294bc",
   "lastOpenFiles": [
     "DNS",
     "For all machines/Hardening/Users/Checking Users that can log.md",
