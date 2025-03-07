@@ -1,6 +1,8 @@
 
-Change Passwords:
-Blueteam, root
+
+Change blueteam & root passwords AND CHECK REDTEAM keys (scoring ones are labeled in file so delete other ones) Back up scoring keys cuz redteam can take them down
+
+Also on Kali machines
 
 Check users:
 sudo userdel -r username
@@ -44,3 +46,8 @@ Check what groups users are in and what permissions those groups have
 -don’t edit sudoers directly use commands
 
 -blackteam and blueteam leave with sudo. Scoring users shouldn’t need sudo
+
+
+
+
+
