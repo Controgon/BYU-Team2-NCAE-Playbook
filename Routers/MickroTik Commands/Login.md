@@ -1,2 +1,10 @@
 admin
 stupidstrongpassword
+
+notadmin
+evenstupiderstrongpasswordthatisexcessive
+
+
+kali 1
+blueteam
+evenstupiderpassword

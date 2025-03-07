@@ -11,10 +11,14 @@
             "id": "d2e125512fff0888",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "User management/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -173,9 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0df148cf1dc8dede",
+  "active": "d2e125512fff0888",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "User management/Untitled.md",
+    "User management",
+    "Logging/Activating Logs.md",
+    "Logging",
     "Web/Web - nginx active failed.md",
     "Web/Web - Network (Ubuntu).md",
     "SSH/SSH setup.md",
@@ -211,8 +219,6 @@
     "Routers/MickroTik Commands/Port Forward 80 to 80.md",
     "Routers/MickroTik Commands/Set up HTTPS.md",
     "Routers/MickroTik Commands",
-    "Routers",
-    "Templates",
-    "work.md"
+    "Routers"
   ]
 }
