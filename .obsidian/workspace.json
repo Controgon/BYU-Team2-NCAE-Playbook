@@ -25,12 +25,14 @@
             "id": "4bcbfb9cc01294bc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "For all machines/Hardening/Users/Sudo Groups.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "Sudo Groups"
             }
           }
         ],
