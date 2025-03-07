@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logging/Activating Logs.md",
+                "file": "Hardening/Users/Checking Users that can log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Activating Logs"
+              "title": "Checking Users that can log"
             }
           }
         ]
@@ -181,8 +181,14 @@
   },
   "active": "d8ccacb3b7bd3e7d",
   "lastOpenFiles": [
-    "Routers/MickroTik Commands/Port Forward 80 to 80.md",
+    "SSH/Hardening.md",
+    "Hardening/Users/Checking Users that can log.md",
+    "Hardening/Users",
+    "Hardening",
+    "SSH/Untitled.md",
+    "SSH/SSH setup.md",
     "Logging/Activating Logs.md",
+    "Routers/MickroTik Commands/Port Forward 80 to 80.md",
     "Logging",
     "Routers/MickroTik Commands/Login.md",
     "Web/Web - check status.md",
@@ -196,8 +202,6 @@
     "Routers/MickroTik Commands/Setting an IP Address.md",
     "Routers/MickroTik Commands/User Commands.md",
     "Routers/Centos 7.md",
-    "SSH/SSH setup.md",
-    "SSH/Untitled.md",
     "Web/Web - Network (Ubuntu).md",
     "Routers/MickroTik Commands/Set up HTTPS.md",
     "Routers/MickroTik Commands/Service Commands.md",
@@ -214,13 +218,9 @@
     "Attachments/Pasted image 20250222104541.png",
     "Attachments/Pasted image 20250222100740.png",
     "Database",
-    "Untitled.md",
-    "testing.md",
     "Web",
     "SSH",
     "Routers/MickroTik Commands",
-    "Routers",
-    "Templates",
-    "Attachments"
+    "Routers"
   ]
 }

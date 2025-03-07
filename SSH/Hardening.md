@@ -1,0 +1,1 @@
+check the config file for the line of which folders the system checks for the ssh keys. Only .ssh/authorized_keys should be there, not /ssh anything.
