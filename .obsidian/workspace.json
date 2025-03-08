@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "For all machines/Network Interface Config.md",
+                "file": "For all machines/Hardening/Users/Sudo Groups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Interface Config"
+              "title": "Sudo Groups"
             }
           }
         ],
@@ -193,9 +193,9 @@
   },
   "active": "4bcbfb9cc01294bc",
   "lastOpenFiles": [
+    "For all machines/Hardening/Users/Checking Users that can log.md",
     "For all machines/Hardening/Users/Sudo Groups.md",
     "For all machines/Network Interface Config.md",
-    "For all machines/Hardening/Users/Checking Users that can log.md",
     "DNS/External Forward Zone Conf..md",
     "DNS/External Reverse Zone Conf..md",
     "DNS/Internal Forward Zone Conf..md",
