@@ -1,3 +1,5 @@
+/var/named/externalforward.db
+
 ```
 $TTL 86400
 @   IN  SOA ns1.team<T>.cyberjousting.org. admin.team<T>.cyberjousting.org. (

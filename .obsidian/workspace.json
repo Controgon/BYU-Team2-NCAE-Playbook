@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "For all machines/Network Interface Config.md",
+                "file": "DNS/Internal Reverse Zone Conf..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Interface Config"
+              "title": "Internal Reverse Zone Conf."
             }
           }
         ],
@@ -193,15 +193,16 @@
   },
   "active": "4bcbfb9cc01294bc",
   "lastOpenFiles": [
+    "DNS/External Reverse Zone Conf..md",
+    "DNS/Internal Forward Zone Conf..md",
+    "DNS/External Forward Zone Conf..md",
+    "DNS/Main Config.md",
+    "DNS/Internal Reverse Zone Conf..md",
+    "For all machines/Network Interface Config.md",
     "conflict-files-obsidian-git.md",
     "For all machines/Hardening/Users/Sudo Groups.md",
     "Pasted image 20250308005757.png",
     "For all machines/Hardening/Users/Checking Users that can log.md",
-    "For all machines/Network Interface Config.md",
-    "DNS/External Forward Zone Conf..md",
-    "DNS/External Reverse Zone Conf..md",
-    "DNS/Internal Forward Zone Conf..md",
-    "DNS/Internal Reverse Zone Conf..md",
     "DNS",
     "For all machines/User management (check your distro).md",
     "SSH/Hardening.md",

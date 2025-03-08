@@ -1,3 +1,5 @@
+/var/named/internalforward.db
+
 ```
 $TTL 86400
 @   IN  SOA ns1.team<T>.net. admin.team<T>.net. (

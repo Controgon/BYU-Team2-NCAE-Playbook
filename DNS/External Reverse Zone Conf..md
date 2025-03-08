@@ -1,3 +1,5 @@
+/var/named/externalreverse.db
+
 ```
 $TTL 86400
 @   IN  SOA ns1.team<T>.cyberjousting.org. admin.team<T>.cyberjousting.org. (
