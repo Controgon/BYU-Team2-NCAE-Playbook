@@ -1,7 +1,7 @@
 ```
 $TTL 86400
 @   IN  SOA ns1.team<T>.cyberjousting.org. admin.team<T>.cyberjousting.org. (
-        2025022201  ; Serial
+        2025022202  ; Serial
         3600        ; Refresh
         1800        ; Retry
         604800      ; Expire

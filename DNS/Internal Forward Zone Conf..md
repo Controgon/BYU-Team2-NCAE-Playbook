@@ -1,7 +1,7 @@
 ```
 $TTL 86400
 @   IN  SOA ns1.team<T>.net. root.team<T>.net. (
-        2025022201  ; Serial
+        2025022204  ; Serial
         3600        ; Refresh
         1800        ; Retry
         604800      ; Expire
