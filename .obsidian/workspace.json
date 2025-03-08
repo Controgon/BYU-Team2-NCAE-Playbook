@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS/Internal Forward Zone Conf..md",
+                "file": "DNS/Internal Reverse Zone Conf..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internal Forward Zone Conf."
+              "title": "Internal Reverse Zone Conf."
             }
           }
         ],
@@ -193,10 +193,10 @@
   },
   "active": "4bcbfb9cc01294bc",
   "lastOpenFiles": [
+    "DNS/Internal Forward Zone Conf..md",
     "DNS/External Reverse Zone Conf..md",
     "DNS/External Forward Zone Conf..md",
     "DNS/Internal Reverse Zone Conf..md",
-    "DNS/Internal Forward Zone Conf..md",
     "For all machines/Hardening/Users/Sudo Groups.md",
     "DNS",
     "For all machines/Hardening/Users/Checking Users that can log.md",
