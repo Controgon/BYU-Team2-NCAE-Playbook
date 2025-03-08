@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "For all machines/Hardening/Users/Sudo Groups.md",
+                "file": "For all machines/PAM stuff (check your distro).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sudo Groups"
+              "title": "PAM stuff (check your distro)"
             }
           }
         ]
@@ -176,19 +176,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0df148cf1dc8dede",
+  "active": "d2e125512fff0888",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "DNS/External Forward Zone Conf..md",
+    "DNS/Internal Forward Zone Conf..md",
+    "DNS/Main Config.md",
     "For all machines/Hardening/Users/Sudo Groups.md",
+    "conflict-files-obsidian-git.md",
     "DNS/Untitled.md",
     "For all machines/Network Interface Config.md",
     "For all machines/Hardening/Users/Checking Users that can log.md",
     "For all machines/User management (check your distro).md",
     "DNS/Internal Reverse Zone Conf..md",
     "DNS/External Reverse Zone Conf..md",
-    "DNS/Internal Forward Zone Conf..md",
-    "DNS/External Forward Zone Conf..md",
-    "DNS/Main Config.md",
     "Pasted image 20250308005757.png",
     "DNS",
     "SSH/Hardening.md",
