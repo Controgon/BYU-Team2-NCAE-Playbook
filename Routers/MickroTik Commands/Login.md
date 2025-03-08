@@ -4,7 +4,6 @@ stupidstrongpassword
 notadmin
 evenstupiderstrongpasswordthatisexcessive
 
+root kali-internal-3
+notsostupidlongpasswordbuteffective
 
-kali 1
-blueteam
-evenstupiderpassword
