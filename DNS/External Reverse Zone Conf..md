@@ -1,6 +1,6 @@
 ```
 $TTL 86400
-@   IN  SOA ns1.team<T>.cyberjousting.org. root.team<T>.cyberjousting.org. (
+@   IN  SOA ns1.team<T>.cyberjousting.org. admin.team<T>.cyberjousting.org. (
         2025022203  ; Serial
         3600        ; Refresh
         1800        ; Retry
