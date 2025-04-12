@@ -25,14 +25,14 @@
             "id": "6332b2c82ce1a261",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Routers/MickroTik Commands/Login.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Login"
             }
           }
         ],
@@ -193,6 +193,9 @@
   },
   "active": "6332b2c82ce1a261",
   "lastOpenFiles": [
+    "Routers/MickroTik Commands/Disabled services.md",
+    "Routers/MickroTik Commands/Basic Commands and Symbols.md",
+    "Routers/MickroTik Commands/Slides from class.md",
     "Untitled.canvas",
     "conflict-files-obsidian-git.md",
     "DNS/Main Config.md",
@@ -225,8 +228,6 @@
     "FTP/etc vsftpd.conf.md",
     "Web/Web - make sure router is correct.md",
     "Web/Web - check status.md",
-    "FTP/Network.md",
-    "Routers/MickroTik Commands/Login.md",
     "Attachments/{4ECCFBA9-619B-445E-B3FA-839A515A2C89}.png",
     "FTP",
     "Database",

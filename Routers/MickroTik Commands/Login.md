@@ -1,7 +1,7 @@
 admin
 stupidstrongpassword
 
-notadmin
+blueteam
 evenstupiderstrongpasswordthatisexcessive
 
 root kali-internal-3
