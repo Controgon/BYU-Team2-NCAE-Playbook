@@ -11,13 +11,32 @@
             "id": "d2e125512fff0888",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "For all machines/PAM stuff (check your distro).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PAM stuff (check your distro)"
+            }
+          },
+          {
+            "id": "6332b2c82ce1a261",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,12 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2e125512fff0888",
+  "active": "6332b2c82ce1a261",
   "lastOpenFiles": [
-    "For all machines/PAM stuff (check your distro).md",
     "Untitled.canvas",
     "conflict-files-obsidian-git.md",
     "DNS/Main Config.md",
+    "For all machines/PAM stuff (check your distro).md",
     "DNS/External Forward Zone Conf..md",
     "DNS/Internal Forward Zone Conf..md",
     "For all machines/Hardening/Users/Sudo Groups.md",
