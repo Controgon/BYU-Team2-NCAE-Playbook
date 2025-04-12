@@ -1,4 +1,4 @@
-## Check IP Adresses
+## Check IP Addresses
 ```
 /ip address print
 ```
